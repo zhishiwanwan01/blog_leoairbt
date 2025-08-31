@@ -96,7 +96,8 @@ gedit &
 ### 1、转发设置
 Windows 上安装 **VcXsrv**，打开 **XLaunch**，设置一路默认 → 最后勾选 `Disable access control `。
 
-> [!TIP] 如果报错可以把 `Native opengl`，关了试试。
+> [!TIP] 
+> 如果报错可以把 `Native opengl`，关了试试。
 
 
 ![XLaunch 设置](./Pasted%20image%2020250823113002.png)
